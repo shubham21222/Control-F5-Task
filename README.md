@@ -1,8 +1,16 @@
-# React + Vite
+# Control-F5 Task 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# instructions to run app
 
-Currently, two official plugins are available:
+1) clone this repository
+   `git clone https://github.com/shubham21222/Control-F5-Task`
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2) Change Directory
+   `cd Control-F5-Task`
+
+3) install packages
+   `npm install`
+
+4) start app
+   `npm run dev`
+
